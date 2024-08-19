@@ -26,5 +26,4 @@ Estagiário em 2RP NET.
 <img src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" alt="Programming Computer Frog" width="1000px">
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/GuilhermeAmargo/output/github-contribution-grid-snake-dark.svg)
-
+![snake gif](https://github.com/GuilhermeAmargo/GuilhermeAmargo/blob/output/github-contribution-grid-snake.svg)
