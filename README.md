@@ -24,10 +24,11 @@
 ## 📊 Estatísticas GitHub
 <div align="center">
     <a href="https://github.com/GuilhermeAmargo">
-        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAmargo&layout=compact&langs_count=7&theme=dracula" alt="Top Languages" />
-        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAmargo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAmargo&layout=compact&langs_count=7&theme=dracula&v=1" alt="Top Languages" />
+        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAmargo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=1" alt="GitHub Stats" />
     </a>
 </div>
+
 
 <div align="center">
     <img src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" alt="Programming Frog" width="1000px">
