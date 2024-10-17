@@ -1,6 +1,6 @@
 # Guilherme Camargo Silva
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=%F0%9F%91%8B+Ol%C3%A1!+Seja+bem-vindo" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=0099ff&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=%F0%9F%91%8B+Ol%C3%A1!+Seja+bem-vindo" width="100%" />
 
 🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia SENAI Gaspar Ricardo Júnior.
 
