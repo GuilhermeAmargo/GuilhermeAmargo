@@ -54,12 +54,18 @@
 
 <div align="center">
   <a href="mailto:guilhermecamargosilva211@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="150" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="200"  heigth="150"/>
   </a>
+  
   <a href="https://www.linkedin.com/in/guilherme-camargo-silva-5586b3292" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="150" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="200" heigth="200"/>
+  </a>
+
+  <a href="https://my-portfolio-nu-six-hf8vxjlhbm.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" width="300"/>
   </a>
 </div>
+
 
 ---
 
