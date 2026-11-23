@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4E71FF,100:00B4D8&height=200&section=header&text=Guilherme%20Camargo%20Silva&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20%7C%20Python%20%E2%80%A2%20React%20%E2%80%A2%20JavaScript%20%E2%80%A2%20SQL%20%7C%20AWS%20%26%20GCP&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Guilherme Camargo Silva — Desenvolvedor | Python • React • JavaScript • SQL | AWS & GCP"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4E71FF,100:00B4D8&height=150&section=header&text=Guilherme%20Camargo%20Silva&fontSize=40&fontAlign=50&fontAlignY=35&fontColor=ffffff" width="100%" alt="Guilherme Camargo Silva"/>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=4E71FF&center=true&vCenter=true&width=520&lines=Desenvolvedor+j%C3%BAnior+na+T4E+Group;Python+%E2%80%A2+React+%E2%80%A2+JavaScript+%E2%80%A2+SQL;Cloud%3A+AWS+%26+GCP;Sorocaba%2C+SP+%F0%9F%87%A7%F0%9F%87%B7" alt="Desenvolvedor júnior na T4E Group · Python, React, JavaScript, SQL · Cloud: AWS & GCP · Sorocaba, SP"/>
 </div>
