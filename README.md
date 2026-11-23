@@ -1,78 +1,79 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=4E71FF&height=150&section=header&text=Guilherme%20Camargo%20Silva&fontSize=40&fontAlign=50&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4E71FF,100:00B4D8&height=200&section=header&text=Guilherme%20Camargo%20Silva&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20%7C%20Python%20%E2%80%A2%20React%20%E2%80%A2%20JavaScript%20%E2%80%A2%20SQL%20%7C%20AWS%20%26%20GCP&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Guilherme Camargo Silva — Desenvolvedor | Python • React • JavaScript • SQL | AWS & GCP"/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=4E71FF&center=true&vCenter=true&width=520&lines=Desenvolvedor+j%C3%BAnior+na+T4E+Group;Python+%E2%80%A2+React+%E2%80%A2+JavaScript+%E2%80%A2+SQL;Cloud%3A+AWS+%26+GCP;Sorocaba%2C+SP+%F0%9F%87%A7%F0%9F%87%B7" alt="Desenvolvedor júnior na T4E Group · Python, React, JavaScript, SQL · Cloud: AWS & GCP · Sorocaba, SP"/>
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=0099ff&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=%F0%9F%91%8B+Ol%C3%A1!+Seja+bem-vindo" width="100%" />
+<br/>
 
-🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Faculdade de Tecnologia SENAI Gaspar Ricardo Júnior.
+## 👨‍💻 Sobre mim
 
-💼 Estagiário na **2RP NET**.
+Desenvolvedor júnior na **T4E Group** desde fevereiro de 2026.
+Tecnólogo em **Análise e Desenvolvimento de Sistemas** e Técnico em **Mecatrônica**, ambos pelo SENAI Gaspar Ricardo Júnior.
 
----
+Antes disso, passei dois anos como estagiário na **2RPnet** (jan/2024 – dez/2025), trabalhando com **Python** e **Google Cloud Platform**.
+Hoje meu foco está em aplicações web com **React** e **Python**, nuvem (**AWS** e **GCP**) e aprendizado de máquina.
 
-## 🌟 Habilidades em Desenvolvimento
+## 💼 Experiência
+
+<table>
+  <tr>
+    <th align="left">Período</th>
+    <th align="left">Cargo</th>
+    <th align="left">Empresa</th>
+  </tr>
+  <tr>
+    <td>fev/2026 – atual</td>
+    <td><b>Desenvolvedor júnior</b></td>
+    <td>T4E Group</td>
+  </tr>
+  <tr>
+    <td>jan/2024 – dez/2025</td>
+    <td><b>Estagiário</b> · Python & GCP</td>
+    <td>2RPnet</td>
+  </tr>
+</table>
+
+## 🛠️ Stack
 
 <div align="center">
-    <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" />
-    <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
-    <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" />
-    <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" />
-    <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" />
-    <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" />
-    <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" />
-    <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" />
-    <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
-    <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" />
-    <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
-    <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
-    <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript"/>
-    <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind"/>
-    <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GoogleCloud"/>
-    <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"/>
-    <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter"/>
-    <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#"/>
-    <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/influxdb/influxdb-original.svg" alt="InfluxDB" />
-    <img height="80px" src="https://nodered.org/about/resources/media/node-red-icon.png" alt="Node-RED" />
-    <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" />
-    <img height="80px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/expo.svg" alt="Expo" />
+  <img src="https://skillicons.dev/icons?i=py,react,js,ts,nodejs,tailwind,html,css&perline=8" alt="Python, React, JavaScript, TypeScript, Node.js, Tailwind, HTML, CSS" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,aws,gcp,java,cs,jupyter&perline=8" alt="PostgreSQL, MySQL, MongoDB, AWS, GCP, Java, C#, Jupyter" />
 </div>
 
----
+<p align="center"><sub>Também já trabalhei com Expo / React Native para mobile e, vindo da mecatrônica, com IoT (Arduino, Node-RED, InfluxDB, Grafana).</sub></p>
 
-## 📊 Estatísticas GitHub
+## 🏅 Certificações
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="16" alt=""/> **Google Cloud** — Cloud Engineer, Cloud Foundations e Cloud AI Foundations (SENAI, 2024)
+- <img src="https://skillicons.dev/icons?i=aws" width="16" alt=""/> **AWS Educate** — Introduction to Cloud 101, Getting Started with Databases, Machine Learning Foundations, Introduction to Generative AI (2025)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" alt=""/> **freeCodeCamp** — Data Analysis with Python (2025)
+- 🌐 **Cisco** — CCNA v7: Introduction to Networks (SENAI, 2024)
+- 🏭 **SENAI** — Desmistificando a Indústria 4.0 (2022)
+
+<sub>Credenciais completas no [LinkedIn](https://www.linkedin.com/in/guilherme-camargo-silva-5586b3292/details/certifications/) e no [Credly](https://www.credly.com/users/guilherme-camargo-silva).</sub>
+
+## 📊 GitHub
 
 <div align="center">
-    <a href="https://github.com/GuilhermeAmargo">
-        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAmargo&layout=compact&langs_count=7&theme=dracula&v=1" alt="Top Languages" />
-        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAmargo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=1" alt="GitHub Stats" />
-    </a>
+  <a href="https://github.com/GuilhermeAmargo">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=GuilhermeAmargo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight">
+      <img loading="lazy" height="170" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAmargo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=4E71FF&icon_color=4E71FF" alt="GitHub Stats" />
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAmargo&layout=compact&langs_count=7&hide_border=true&theme=tokyonight">
+      <img loading="lazy" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAmargo&layout=compact&langs_count=7&hide_border=true&title_color=4E71FF" alt="Top Languages" />
+    </picture>
+  </a>
 </div>
-
----
 
 ## 📫 Contato
 
 <div align="center">
-  <a href="mailto:guilhermecamargosilva211@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="200"  heigth="150"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/guilherme-camargo-silva-5586b3292" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="200" heigth="200"/>
-  </a>
-
-  <a href="https://my-portfolio-henna-delta-21.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" width="300"/>
-  </a>
+  <a href="https://www.linkedin.com/in/guilherme-camargo-silva-5586b3292" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:guilhermecamargosilva211@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://my-portfolio-henna-delta-21.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/></a>
 </div>
 
-
----
-
-<div align="center">
-    <img src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" alt="Programming Frog" width="1000px">
-</div>
-
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=4E71FF&height=150&section=footer" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:4E71FF&height=120&section=footer" width="100%" alt=""/>
